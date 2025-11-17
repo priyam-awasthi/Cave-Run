@@ -15,7 +15,8 @@ Story: Bob and Joe explore a cave near their home, get trapped, and must work to
 Media: [Sneak Peek Video](https://drive.google.com/file/d/14DsrMmp1MrLXrZCsmb4fzrmh1yki1DLG/view?usp=sharing)
 
 Credits:
-Music: [YouTube](https://www.youtube.com/watch?v=QRm_STaLsFs)Sounds: [Pixabay](https://pixabay.com/utm_source=link_attribution&utm_medium=referral&utm_campaign=music&utm_content=36030)
+Music: [YouTube](https://www.youtube.com/watch?v=QRm_STaLsFs)
+Sounds: [Pixabay](https://pixabay.com/utm_source=link_attribution&utm_medium=referral&utm_campaign=music&utm_content=36030)
 Graphics: Canva
 
 TSA Video Game Design 2022-2023
