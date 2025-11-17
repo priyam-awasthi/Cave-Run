@@ -12,7 +12,7 @@ Controls:
 Objective: Collect all gems and reach the exit together.
 Story: Bob and Joe explore a cave near their home, get trapped, and must work together to escape.
 
-Media: [Sneak Peek Video]([url](https://drive.google.com/file/d/14DsrMmp1MrLXrZCsmb4fzrmh1yki1DLG/view?usp=sharing))
+Media: [Sneak Peek Video](https://drive.google.com/file/d/14DsrMmp1MrLXrZCsmb4fzrmh1yki1DLG/view?usp=sharing)
 
 Credits:
 Music: [YouTube]([https://www.youtube.com/watch?v=QRm_STaLsFs])
