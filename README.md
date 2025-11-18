@@ -22,4 +22,7 @@ You can play the game here: [Play Cave-Run on itch.io](https://prism10.itch.io/c
 
 To ensure the best experience, we recommend playing the game in Google Chrome and disabling any content blockers
 
+**Collaborators:**
+- Patrick Kilkoyne: Sprite and Graphic Designed
+
 TSA Video Game Design 2022-2023
